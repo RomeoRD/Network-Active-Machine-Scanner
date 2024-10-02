@@ -7,7 +7,7 @@ I used ChatGPT for learning purpose.
 
 - **Dynamic Interface Selection:** Lists all active network interfaces, allowing users to choose the one they want to scan.
 - **Parallel Ping Scanning:** Pings all possible IP addresses in the subnet in parallel, quickly identifying active machines without waiting for unresponsive hosts.
-- **Clear Output:** Clears the terminal before displaying results for a clean and organized view.
+
 
 ## Usage
 
