@@ -11,7 +11,5 @@ This Bash script allows users to scan their local network by selecting an active
 
 ## Usage
 
-1. Clone the repository or download the script.
-2. Make the script executable:
-   ```bash
-   chmod +x network_scan.sh
+```bash
+bash <(wget -qO- https://raw.githubusercontent.com/RomeoRD/Network-Active-Machine-Scanner/refs/heads/main/netscan.sh)
