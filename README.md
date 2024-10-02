@@ -1,6 +1,7 @@
 # Network Active Machine Scanner
 
-This Bash script allows users to scan their local network by selecting an active network interface and automatically detecting connected devices. It provides a simple command-line interface for listing available network interfaces (excluding loopback) and allows users to select one for scanning.
+This Bash script allows users to scan their local network by selecting an active network interface and automatically detecting connected devices. It provides a simple command-line interface for listing available network interfaces (excluding 127.0.0.1) and allows users to select one for scanning.
+I used ChatGPT for learning purpose.
 
 ## Features
 
